@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Ayush Patel</h1>
+<h1 align="center">Hi 👋, I'm Ayush Patel </h1>
 
 - 🎓 B.Tech CSE @ Lovely Professional University   
 - 💻 300+ problems on LeetCode & GeeksForGeeks | 100+ days streak |  
